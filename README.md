@@ -1,1 +1,1 @@
-# image_upload
+# `Upload Image using Node.js and Cloudinary`
